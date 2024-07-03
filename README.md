@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Animesh Kumar
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Front-End Web Development
 - 📫 Mail me on animesh99dev@gmail.com
